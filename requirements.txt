@@ -1,9 +1,9 @@
 transformers
 transformers[sentencepiece]
 datasets
-sacrebleu
-rouge_score
-py7z
+sacrebleu 
+rouge_score 
+py7zr
 pandas
 nltk
 tqdm
@@ -17,5 +17,5 @@ python-box==6.0.2
 ensure==1.0.2
 fastapi==0.78.0
 uvicorn==0.18.3
-jinja2==3.1.2
+Jinja2==3.1.2
 -e .
